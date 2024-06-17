@@ -33,9 +33,6 @@ fun main() {
 
     init()
 
-
-
-
     fun selector (): Int {
         var selector = readLine()!!.toInt()
         if (selector == 0) {
